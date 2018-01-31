@@ -9,7 +9,6 @@
   },
   "require": {
     "degov/degov": "dev-feature/outsourced-degov-installation-profile",
-    "degov/modules": "dev-realease/2.x",
     "wikimedia/composer-merge-plugin": "dev-master",
     "drupal/discord_widget": "^1.1",
     "drush/drush": "^9.0.0",
