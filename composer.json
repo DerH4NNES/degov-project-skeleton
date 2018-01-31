@@ -6,12 +6,11 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require-dev": {
+    "drush/drush": "^9.0.0"
   },
   "require": {
     "degov/degov": "dev-feature/outsourced-degov-installation-profile",
     "wikimedia/composer-merge-plugin": "dev-master",
-    "drupal/discord_widget": "^1.1",
-    "drush/drush": "^9.0.0",
     "drupal/console": "^1.3",
     "php": ">=7.0"
   },
