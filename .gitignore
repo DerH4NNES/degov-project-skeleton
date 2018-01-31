@@ -1,2 +1,5 @@
 ## Ignore IDE
 .idea
+/bin
+/docroot
+/vendor
