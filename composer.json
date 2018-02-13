@@ -11,7 +11,6 @@
   },
   "require": {
     "degov/degov": "dev-feature/outsourced-degov-installation-profile",
-    "wikimedia/composer-merge-plugin": "dev-master",
     "php": ">=7.0"
   },
   "repositories": {
@@ -79,10 +78,6 @@
       "docroot/themes/degov/degov_base_theme": [
         "degov/degov_base_theme"
       ]
-    },
-    "merge-plugin": {
-      "merge-extra": true,
-      "merge-extra-deep": true
     },
     "enable-patching": true,
     "patches": []
