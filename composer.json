@@ -14,25 +14,13 @@
     "php": ">=7.0"
   },
   "repositories": {
-    "degov": {
-      "type": "git",
-      "url": "git@bitbucket.org:publicplan/degov.git"
-    },
     "drupal": {
       "type": "composer",
       "url": "https://packages.drupal.org/8"
     },
-    "degov-modules": {
-      "type": "git",
-      "url": "git@bitbucket.org:publicplan/modules.git"
-    },
     "bowser-assets": {
       "type": "composer",
       "url": "https://asset-packagist.org"
-    },
-    "degov-theme": {
-      "type": "git",
-      "url": "git@bitbucket.org:publicplan/degov_base_theme.git"
     },
     "dropzone": {
       "type": "package",
