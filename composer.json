@@ -1,5 +1,5 @@
 {
-  "name": "derh4nnes/degov-project-skeleton",
+  "name": "degov/degov-project",
   "description": "Drupal 8 for Government (Drupal 8 für die öffentliche Verwaltung)",
   "type": "project",
   "license": "GPL-3.0-or-later",
@@ -16,7 +16,7 @@
   "repositories": {
     "degov": {
       "type": "git",
-      "url": "https://github.com/DerH4NNES/deGov.git"
+      "url": "git@bitbucket.org:publicplan/degov.git"
     },
     "drupal": {
       "type": "composer",
@@ -24,7 +24,7 @@
     },
     "degov-modules": {
       "type": "git",
-      "url": "https://github.com/DerH4NNES/modules.git"
+      "url": "git@bitbucket.org:publicplan/modules.git"
     },
     "bowser-assets": {
       "type": "composer",
